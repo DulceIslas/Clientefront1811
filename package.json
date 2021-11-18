@@ -33,6 +33,7 @@
     "@ngrx/store": "10.1.0",
     "@ngx-translate/core": "13.0.0",
     "@ngx-translate/http-loader": "6.0.0",
+    "@stripe/stripe-js": "^1.21.1",
     "@videogular/ngx-videogular": "^4.1.0",
     "acorn": "8.0.4",
     "angular-resize-event": "2.0.1",
@@ -55,7 +56,7 @@
     "ngx-moment": "^5.0.0",
     "ngx-perfect-scrollbar": "10.0.1",
     "ngx-spinner": "^10.0.1",
-    "ngx-stripe": "^12.4.0",
+    "ngx-stripe": "^12.7.1",
     "ngx-take-until-destroy": "5.4.0",
     "ngx-videogular": "^10.1.0-0",
     "primeicons": "^4.1.0",
@@ -72,7 +73,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~12.2.1",
+    "@angular-devkit/build-angular": "^12.2.13",
     "@angular/cli": "12.2.1",
     "@angular/compiler-cli": "12.2.2",
     "@angular/language-service": "12.2.2",

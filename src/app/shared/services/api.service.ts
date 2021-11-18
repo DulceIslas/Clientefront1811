@@ -20,7 +20,7 @@ export class ApiService {
 
   secretKey = "4pK3y4WeBM1C1..$";
   encryptedData = "";
-  private url = "http://mlc.monitorproyecto.com:8080/api/v1";
+  private url = "http://localhost:8080/api/v1";
 
   constructor(private _http: HttpClient) {
 
